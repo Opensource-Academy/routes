@@ -2,6 +2,12 @@
 
 Study routes by [DutchSec](https://www.dutchsec.com)
 
+## Offerings
+
+| Route                                                                                                        | Description                 |
+| :---                                                                                                         | :---                        |
+| [Summer School 2018](https://github.com/Opensource-Academy/routes/blob/master/dutchsec/summerschool_2018.md) | DutchSec Summer School 2018 |
+
 ```
    Copyright 2018 Opensource Academy
 

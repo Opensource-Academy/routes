@@ -1,5 +1,18 @@
-# routes
-Study routes to guide learners through OSA study materials
+# Study routes
+Study routes to guide learners through OSA study materials.
+
+## Starters and solo learners
+Simply scroll down, pick a [study route](#offerings) and enjoy.
+
+## Courses and training
+Scroll up and find the organisation that is offering your course, additional information should be provided to you from there on.
+
+## Offerings
+
+| Route                                                                                              | Description                                           |
+| :---                                                                                               | :---                                                  |
+| [Open source contributor](https://github.com/Opensource-Academy/routes/blob/master/contributor.md) | Become an open source contributor, no coding required |
+| [Open source programmer](https://github.com/Opensource-Academy/routes/blob/master/programmer.md)   | Become an open source programmer                      |
 
 ```
    Copyright 2018 Opensource Academy
