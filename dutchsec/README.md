@@ -1,5 +1,6 @@
-# routes
-Study routes to guide learners through OSA study materials
+# DutchSec Study Routes
+
+Study routes by [DutchSec](https://www.dutchsec.com)
 
 ```
    Copyright 2018 Opensource Academy
