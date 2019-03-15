@@ -1,18 +1,21 @@
 # Study routes
 Study routes to guide learners through OSA study materials.
 
-## Starters and solo learners
-Simply scroll down, pick a [study route](#offerings) and enjoy.
-
-## Courses and training
-Scroll up and find the organisation that is offering your course, additional information should be provided to you from there on.
+## How it works
+Keep reading to get an overview of OSA study routes. Simply pick the study route that interests you and work through all modules in the order they are presented. Simple!
 
 ## Offerings
 
-| Route                                                                                              | Description                                           |
-| :---                                                                                               | :---                                                  |
-| [Open source contributor](https://github.com/Opensource-Academy/routes/blob/master/contributor.md) | Become an open source contributor, no coding required |
-| [Open source programmer](https://github.com/Opensource-Academy/routes/blob/master/programmer.md)   | Become an open source programmer                      |
+| Route                                                                                                                | Type         | Description                                                             |
+| :---                                                                                                                 | :---         | :---                                                                    |
+| [Open source contributor](https://github.com/Opensource-Academy/routes/blob/master/contributor.md)                   | Introduction | Become an open source contributor, no coding required                   |
+| [Open source contributor with git](https://github.com/Opensource-Academy/routes/blob/master/contributor-with-git.md) | Introduction | Become an open source contributor, includes command-line and git basics |
+| [Open source programmer](https://github.com/Opensource-Academy/routes/blob/master/programmer.md)                     | Introduction | Become an open source programmer                                        |
+
+## Special courses
+Find the organisation that is offering your course, additional information should be provided to you from there on.
+
+- [DutchSec](https://github.com/Opensource-Academy/routes/tree/master/dutchsec)
 
 ```
    Copyright 2018 Opensource Academy

@@ -1,14 +1,21 @@
 # Open source contributor
 
-This document provides an overview of courses that will enable you to contribute to an open source project or projects.
+This document provides an overview of course modules that will enable you to contribute to an open source project or projects.
 
-| *what*      |                                                                                     |
-| :---        | :---                                                                                |
-| Description | A selection of courses that introduces participants to contributing to open source. |
-| Teacher     | no                                                                                  |
-| Type        | introduction                                                                        |
+## Modules
 
-## Courses
+| Course                        | Module                                                                                                           |
+| :---                          | :---                                                                                                             |
+| Introduction                  | [README.md](https://github.com/Opensource-Academy/introduction)                                            |
+| Open-source                   | [Introduction](https://github.com/Opensource-Academy/open-source/blob/master/101_introduction_to_open_source.md) |
+| Open-source                   | [Contributing](https://github.com/Opensource-Academy/open-source/blob/master/102_contributing.md)                |
+| Documentation and documenting | [Documentation](https://github.com/Opensource-Academy/documentation/blob/master/101_documentation.md)            |
+| Documentation and documenting | [Documenting](https://github.com/Opensource-Academy/documentation/blob/master/102_documenting.md)                |
+| Documentation and documenting | [Markdown](https://github.com/Opensource-Academy/documentation/blob/master/103_markdown.md)                      |
+
+
+## Courses in this route
+
 - [Introduction](https://github.com/Opensource-Academy/introduction)
 - [Open Source](https://github.com/Opensource-Academy/open-source)
 - [Documentation and documenting](https://github.com/Opensource-Academy/documentation)
